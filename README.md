@@ -1,15 +1,16 @@
-<center>
-    <img src="https://www.thebeerstore.ca/wp-content/uploads/2020/11/Covidposting_ArticleArchive.jpg" width="30%">
-</center>
+<p align="center" width="100%">
+    <img src="https://www.thebeerstore.ca/wp-content/uploads/2020/11/Covidposting_ArticleArchive.jpg"  width="30%">
+</p>
 
 <h1 align="center">The Beer Store - Web Scraping Project</h1>
 
-<h2>
-    <center align="left"> <font size='4'>  Developed by: </font><font size='4' color='#33AAFBD'>An Ni Guo</font></center>
-    <center align="left"> <font size='4'>  Date: </font><font size='4' color='#33AAFBD'>Jun 23, 2021</font></center>
-</h2>
+<p align="center"><font-size="4">
+Developed by: An Ni Guo <br/>
+Date: Jun 23, 2021
+</font></p>
 
 ## 1. Check with the policies of the website before engaging in any scraping
+
 >There are no indications of prohibiting web scraping or web crawling or data mining, etc., except for those mentioned below:
 >- COPYRIGHT BELONGS TO THE BEER STORE AND BREWERS RETAIL 
 >	☞ https://www.thebeerstore.ca/terms-conditions/
